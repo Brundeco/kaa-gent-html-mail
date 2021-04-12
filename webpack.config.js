@@ -264,11 +264,9 @@ module.exports = {
           strip: true,
         }),
         imageminOptipng({
-          optimizationLevel: 5,
+          optimizationLevel: 3,
         }),
-        imageminZopfli({
-          more: true,
-        }),
+        imageminZopfli(),
         imageminJpegRecompress({
           accurate: true,
           quality: 'low',
