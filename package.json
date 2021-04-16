@@ -91,6 +91,7 @@
     "hyperform": "^0.11.0",
     "js-cookie": "^2.2.1",
     "object-fit-images": "^3.2.4",
+    "webpack-dev-server": "^3.11.0",
     "whatwg-fetch": "^3.0.0"
   },
   "optionalDependencies": {
