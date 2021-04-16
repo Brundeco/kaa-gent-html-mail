@@ -11,7 +11,7 @@ $menuItem = 'home';
 <div class="section">
   <div class="container">
 
-    <h1>Camper</h1>
+    <h1>Front-end template webpack</h1>
 
     <div class="grid">
       <div class="grid__item medium--one-half">
@@ -24,6 +24,16 @@ $menuItem = 'home';
       </div>
     </div>
 
+    <h2 class="h3">Inline background image example</h2>
+    <div style="background-image: url('${require(`../../assets/images/marker.png`)}'); height: 128px; width: 100px;">
+    </div>
+
+    <h2 class="h3">Webp image example</h2>
+    <picture>
+      {{-- Change image extension to webp when images are loaded from build folder --}}
+      <source srcset="../../assets/images/marker.png" type="image/webp">
+      <img src="../../assets/images/marker.png" alt="marker">
+    </picture>
   </div>
 </div>
 @endsection
