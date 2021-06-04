@@ -11,6 +11,8 @@
     <meta name="viewport" content="width=device-width">
 
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
         body {
             margin: 0;
         }
@@ -192,7 +194,7 @@
                                                                     <td style="width: 33.33%; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; margin: 0; padding: 0;"
                                                                         align="center" valign="middle">
                                                                         <span class="order-number__text"
-                                                                            style="font-size: 18px !important; color: #ffffff;">
+                                                                            style="font-family: 'Roboto Slab', serif;font-weight:200; font-size: 22px !important; color: #ffffff;">
                                                                             Bedankt voor uw aankoop!
                                                                         </span>
                                                                     </td>
@@ -218,7 +220,7 @@
                                     style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; padding-bottom: 40px; border: 0;">
                                     <center>
                                         <table class="container" background="../../assets/images/kaa_gent_bg_image.png"
-                                            width="900" bgcolor="#003783" height="350" style="text-align: left; border-spacing: 0; border-collapse: collapse; margin: 0 auto; background-position: top;
+                                            width="600" bgcolor="#003783" height="350" style="text-align: left; border-spacing: 0; border-collapse: collapse; margin: 0 auto; background-position: top;
                                             background-size: cover;
                                             background-repeat: no-repeat;">
                                             <tbody>
@@ -251,7 +253,7 @@
                                                     <td
                                                         style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">
 
-                                                        <p style="color: #ffffff; line-height: 150%; font-size: 16px; margin: 0;"
+                                                        <p style="font-family: 'Roboto Slab', serif; font-weight:200; color: #ffffff; line-height: 150%; font-size: 16px; margin: 0;"
                                                             align="center">
                                                             Hallo Yves, we maken je bestelling klaar voor verzending.
                                                             We laten het je weten wanneer het is verzonden.
@@ -301,7 +303,7 @@
                                                                                         style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Roboto&quot;, &quot;Oxygen&quot;, &quot;Ubuntu&quot;, &quot;Cantarell&quot;, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;">
                                                                                         <p align="center">
                                                                                             <a href="https://www.produitspiscine.fr"
-                                                                                                style="color: #ffffff; text-decoration: none;font-size: 16px;">Of
+                                                                                                style="font-family: 'Roboto Slab', serif; font-weight:200; color: #ffffff; text-decoration: none;font-size: 16px;">Of
                                                                                                 bezoek onze webshop</a>
                                                                                         </p>
 
